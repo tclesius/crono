@@ -86,7 +86,7 @@ python examples/basic.py
 - Invalid cron jobs are skipped with a warning to `stderr`.
 
 ## Contributing
-Feel free to open issues or PRs on GitHub! Planned features include middleware support for custom task execution logic (e.g., timing, logging).
+Feel free to open issues or PRs on GitHub!.
 
 ## License
 MIT License - see `LICENSE` for details.
